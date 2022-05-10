@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/whiteshadowofficial/project-x/fork">
-    <img src="https://img.shields.io/static/v1?label=Fork this repo&message=Click this now&color=white and pink&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Fork this repo&message=Click this now&color=pink&style=plastic">
 
   </a>
 
